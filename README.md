@@ -6,6 +6,7 @@ Dê aos seus aplicativos a capacidade de ouvir, entender e até mesmo falar com 
 ### Ferramentas utilizadas:
 - Portal Azure: https://portal.azure.com
 - Portal Laguage Studio: laguage.cognitive.azure.com
+- Portal Speech: https://speech.microsoft.com/portal
 
 ### Pontos Importantes:
 - Caso esteja realizando apenas um prática de estudo, no final excluir tudo que foi construído nesse laboratório. Desta forma, minimiza o risco de ser cobrado algum valor. Lembre-se você está em um ambiente real de produção.
