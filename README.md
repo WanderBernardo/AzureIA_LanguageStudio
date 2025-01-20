@@ -42,4 +42,28 @@ Imagina uma gaveteiro onde o gaveteiro inteiro é Subscriptiom e uma gaveta dess
    * Tags: muito usado para criar filtros. Por exemplo: Quero fazer rateio para lançamento de custo por Departamento, então, cria as tags por departamento. Conforme sua necessidade.
    ![image](https://github.com/user-attachments/assets/1b88a9bd-dc97-4ee0-ac4f-31d3b765a92c)
 
+### PORTAL: https://speech.microsoft.com/portal
+
+05 - Entrar no portal: "https://speech.microsoft.com/portal" e criar o recurso. Caso já tenha um recurso criado, pode utilizar o mesmo.
+![image](https://github.com/user-attachments/assets/d2f8d35d-13ab-409b-9f2c-90a607f0f57e)
+
+Preencher os dados solicitados, clicar em ``` Create resource ```:
+   * Name of new resource: nome do projeto, modelo que será criado
+   * Subscription: Já vem preenchedo com o padrão da sua conta criada. Caso, tenha mais de uma conta, selecionar a melhor para sua solução.
+   * Region: basicamente, quer dizer em qual servidor da Microsoft você quer salvar(Brasil, USA etc). Acredito que também determina a moeda que será cobrado por utilizar esse serviço.
+   * Pricing tier: O método de cobrança. Nesse nosso caso vamos selecionar a opção "Standard S0"
+   * Resource group: Selecionar o recurso criado nos primeiro passos no portal da Azure.
+   ![image](https://github.com/user-attachments/assets/6549aeba-07a9-4bd6-83d8-57b9e6457fa7)
+
+06 - Próximo passo, selecionar o resource e clicar no botão ``` Use resource ```. Informando o sistema que você quer usar esse "cara". Pois pode ser que tenha mais uma opção.
+![image](https://github.com/user-attachments/assets/a15ac0d6-523f-4188-aba3-23dce2cb5b18)
+
+07 - Testar a funcionalidade "Conversão de falar em texto em tempo real".
+   * Na tela principal selecionar a opção:  ``` Real-time speech to text ```
+   * Quando abrir a tela deve:
+       * marcar o check box, qu está ciente que está usando o recurso XXX.
+       * Selecionar o idioma do audio que vai inputar na ferramenta.
+       * Adicionar o audio que será testado. 
+![image](https://github.com/user-attachments/assets/5f68430f-567d-4f2c-ad1b-c51724ee677e)
+
 
