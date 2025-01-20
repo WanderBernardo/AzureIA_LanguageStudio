@@ -3,8 +3,9 @@ Objetivo criar a configuração e realizar de usabilidade.
 
 Dê aos seus aplicativos a capacidade de ouvir, entender e até mesmo falar com seus clientes com recursos como fala para texto e texto para fala.
 
-Primeiro teste: Transformar um audio em texto.
-Segundo teste: Analisar um texto (Positivo/Nuetro/Negativo)
+- Primeiro teste: Transformar um audio em texto.
+
+- Segundo teste: Analisar um texto (Positivo/Nuetro/Negativo)
 
 ### Ferramentas utilizadas:
 - Portal Azure: https://portal.azure.com
