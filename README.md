@@ -69,3 +69,17 @@ Preencher os dados solicitados, clicar em ``` Create resource ```:
 Resultado do teste:
 ![image](https://github.com/user-attachments/assets/68f00b51-3b26-4e85-b087-4245467dee1b)
 
+### PORTAL: https://language.cognitive.azure.com/
+
+08 - Ao entrar no portal: https://language.cognitive.azure.com/, a ferramenta vai solicitar algumas configurações conforme a tela abaixo. Nada diferente que já tenha visto diferente.
+
+O único campo diferente é o ``` Resource type ```. Essa opção é para selecionar o tipo de serviço que gostaria de realizar. Pois essa ferramente, atualmente trabalha com mais de um tipos de serviço. No nosso caso usar ``` Language ```.
+
+![image](https://github.com/user-attachments/assets/a875e01f-6305-451b-9b78-897a76086138)
+
+09 - Testar a funcionalidade "Sentiment and opinion mining tryout". Para isso selecionar primeiro: ``` Classify text ``` e depois ``` Analyze setiment and mine opinion ```.
+Essa tela é bem similar do teste anterior, mas neste caso, você vai digitar um texto ou importar e a ferramenta vai analisar o texto. Usamos um exemplo de uma avaliação de um curso.
+![image](https://github.com/user-attachments/assets/ace95e72-1f4d-47ee-9142-de8069db17b9)
+
+
+
