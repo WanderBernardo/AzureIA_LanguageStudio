@@ -1,4 +1,4 @@
-# Azure Inteligência Artificial(IA) - Liguage Studio: Configuração do Resource e testes
+# Azure Inteligência Artificial(IA) - Language Studio: Configuração do Resource e testes
 Objetivo criar a configuração e realizar de usabilidade.
 
 Dê aos seus aplicativos a capacidade de ouvir, entender e até mesmo falar com seus clientes com recursos como fala para texto e texto para fala.
